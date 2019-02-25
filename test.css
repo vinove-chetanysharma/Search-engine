@@ -1,0 +1,13 @@
+body{
+ 
+    height: 100vh;
+    text-align: center;
+    background-image: linear-gradient(to top right, yellow, skyblue)
+    
+}
+h1{
+  color: rgb(255,112,234);
+}
+.v-text-field input {
+    font-size: 40px;
+  }
